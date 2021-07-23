@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.input {
+    text-align: center;
+}
+.icons {
+    display: flex;
+    align-items: center;
+}
+.div {
+    margin-right: 20px;
+}
